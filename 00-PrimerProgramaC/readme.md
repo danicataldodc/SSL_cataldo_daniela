@@ -1,1 +1,1 @@
-Se realizará un programa que imprima en pantalla el clásico mensaje "Hola Mundo"
+Se realizará un programa que imprima en pantalla el clásico mensaje "Hola Mundo".
